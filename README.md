@@ -17,7 +17,3 @@ This dataset is obtained from [Retail Transaction Data | Kaggle](https://www.kag
 
 ## Screenshot
 <img src='https://drive.google.com/uc?id=1xn47oXNOJU9fnWBvVs1sM0KDOSujQMni' width='25%'><img src='https://drive.google.com/uc?id=1yDSk6eFTozaDVVlcGnH5xGPLSUS5Oo9T' width='25%'>
-
-<img src='https://drive.google.com/uc?id=14dOkfHtm0Sk8cVPF4YxedeeHEbmNcuwm' width='25%'><img src='https://drive.google.com/uc?id=1DKTmLMRRZ7o7SPh0Cr2K7xWEycGJIWCl' width='25%'>
-
-<img src='https://drive.google.com/uc?id=1Wd2gKLH-2HaOy-ZzyYgJ_CoqRIf2u5A1' width='25%'><img src='https://drive.google.com/uc?id=1gCAicuvZlDhu8iNrGQ-e61rJkQJ7WQ8W' width='25%'>
